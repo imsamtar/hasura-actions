@@ -1,6 +1,6 @@
 {
   "name": "hasura-actions",
-  "version": "0.0.0-0",
+  "version": "0.0.0-1",
   "description": "Hasura actions simplified",
   "main": "src/index.js",
   "scripts": {

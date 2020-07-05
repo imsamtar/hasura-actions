@@ -1,0 +1,27 @@
+{
+  "name": "hasura-actions",
+  "version": "0.0.0-0",
+  "description": "Hasura actions simplified",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imsamtar/hasura-actions.git"
+  },
+  "keywords": [
+    "hasura",
+    "actions",
+    "graphql"
+  ],
+  "author": "SAMEER TARIQ <imsamtar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imsamtar/hasura-actions/issues"
+  },
+  "homepage": "https://github.com/imsamtar/hasura-actions#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
+}
